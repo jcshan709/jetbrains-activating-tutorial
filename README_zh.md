@@ -1,4 +1,4 @@
-Language select: [English](https://github.com/jcshan709/jetbrains-activating-tutorial/tree/main/README.md) | 中文  
+> Language select: [English](https://github.com/jcshan709/jetbrains-activating-tutorial/tree/main/README.md) | 中文  
 # JetBrains全家桶激活教程
 ### Step 1 - 查找许可证服务器
 1. 访问 [Censys Search](https://search.censys.io/)  
