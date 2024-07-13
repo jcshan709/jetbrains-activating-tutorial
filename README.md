@@ -1,4 +1,4 @@
-> Language select: English | [中文](https://github.com/jcshan709/jetbrains-activating-tutorial/tree/main/README_zh.md)
+> Language select: English \| [中文](https://github.com/jcshan709/jetbrains-activating-tutorial/tree/main/README_zh.md)
 
 # JetBrains Activating Tutorial
 ### Step 1 - Look up JetBrains License Server
