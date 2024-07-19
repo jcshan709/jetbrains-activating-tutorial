@@ -1,2 +1,1 @@
-remote_theme: pages-themes/architect@v0.2.0  
-source: _posts
+theme: minima
