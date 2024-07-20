@@ -12,7 +12,7 @@
 ![looking up for license servers](https://github.com/user-attachments/assets/d273115b-887e-48ba-9367-376d43a042fe)
 ![checking whether status is 302](https://github.com/user-attachments/assets/a2cebd5e-0c71-4cca-80b7-84178bbd14cf)
 
-### Step 2 - Activate your IDE
+### Step 2 - 激活IDE
 1. 打开你的IDE，在激活界面选择许可证服务器  
 2. 复制你刚刚找到的地址（带上`http://`前缀，不要带端口）
 3. 用同样方法也可激活`Code With Me`等付费插件
